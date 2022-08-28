@@ -1,0 +1,1 @@
+This is a counting machine built using HTML, CSS and JavaScript which helps us to count items and save progress.
